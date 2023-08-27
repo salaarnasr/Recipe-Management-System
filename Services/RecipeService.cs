@@ -32,6 +32,24 @@ namespace RecipeManagementSystem.Services
                 recipes[index].Name = newName;
             }
         }
+
+        public void RemoveRecipe(string recipeName)
+        {
+            Recipe recipeToRemove = null;
+            foreach (var recipe in recipes)
+            {
+                if (recipe.Name == recipeName)
+                {
+                    recipeToRemove = recipe;
+                    break;
+                }
+            }
+
+            if (recipeToRemove != null)
+            {
+                recipes.Remove(recipeToRemove);
+            }
+        }
     }
 
 
