@@ -1,0 +1,14 @@
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.AssemblyInfoInputs.cache
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.AssemblyInfo.cs
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.csproj.CoreCompileInputs.cache
+/Users/mba/RMSApp/RMS/bin/Debug/net7.0/RMS
+/Users/mba/RMSApp/RMS/bin/Debug/net7.0/RMS.deps.json
+/Users/mba/RMSApp/RMS/bin/Debug/net7.0/RMS.runtimeconfig.json
+/Users/mba/RMSApp/RMS/bin/Debug/net7.0/RMS.dll
+/Users/mba/RMSApp/RMS/bin/Debug/net7.0/RMS.pdb
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.dll
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/refint/RMS.dll
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.pdb
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/RMS.genruntimeconfig.cache
+/Users/mba/RMSApp/RMS/obj/Debug/net7.0/ref/RMS.dll
